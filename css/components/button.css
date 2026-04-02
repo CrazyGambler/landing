@@ -1,0 +1,15 @@
+.btn-neon {
+    background-color: #ccff00;
+    padding: 15px 40px;
+    color: #2d005e;
+    font-weight: 600;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-radius: 8px;
+}
+
+.btn-neon:hover {
+    transform: translateY(2px);
+    box-shadow: 0 6px 2px #9dbb00;
+    background-color: #d4ff2a;
+}
